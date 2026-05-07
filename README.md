@@ -1,4 +1,5 @@
 Spell Checker Chrome Extension
+
 A Chrome Extension that detects misspelled words and suggests the closest correct words using the Levenshtein Distance Algorithm. This project demonstrates the practical implementation of Design and Analysis of Algorithms (DAA) concepts in a real-world application.
 
 Features
